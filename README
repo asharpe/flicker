@@ -2,6 +2,6 @@ This is a simple PHP web page flicker which flicks between different web pages.
 
 Configurable items are:
  1. the URLs to visit
- 2. the time spend at each URL
+ 2. the time spent at each URL
 
 
